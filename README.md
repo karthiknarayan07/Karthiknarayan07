@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Django+REST API+MySQL
+I'm currently working on Python Django(REST API), PostgreSQL, NodeJS, MongoDB
 
 
 ## 🌐 Socials:
